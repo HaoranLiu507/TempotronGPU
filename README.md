@@ -11,6 +11,8 @@ Hao-Ran Liu, Peng Li, Ming-Zhe Liu, Kai-Ming Wang, Zhuo Zuo, and Bing-Qi Liu, **
 ## Dataset
 
 This project uses a dataset consisting of 9,404 radiation pulse signals of neutrons and gamma-rays, including approximately 2,000 neutron events and over 7,000 gamma ray events. Each pulse signal has a length of about 280 ns, and the dataset is saved in txt format, which can be read using the loadtxt function supported by the NumPy library.
+
+Please download the dataset from [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7974151.svg)](https://doi.org/10.5281/zenodo.7974151)
 ```
 import numpy as np
 import os
