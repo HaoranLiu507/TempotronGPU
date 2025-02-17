@@ -1,4 +1,4 @@
-    # Tempotron on GPU
+# Tempotron on GPU
 
 ## Introduction
 
